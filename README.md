@@ -1,5 +1,5 @@
-# Data_preprocessing
-**Credit_scoring_research_on_the_reliability_of_borrowers**
+# Data preprocessing
+**Credit scoring research on the reliability of borrowers**
 
 **Цель проекта**: 
 Для кредитного скоринга необходимо ответить на вопрос, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.
